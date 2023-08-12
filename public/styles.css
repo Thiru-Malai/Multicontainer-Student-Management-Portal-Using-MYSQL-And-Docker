@@ -1,0 +1,22 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+td{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.container{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+.student-data{
+    position: relative;
+    align-content: center;
+    width: max-content;
+    align-items: center;
+    justify-content: center;
+}
