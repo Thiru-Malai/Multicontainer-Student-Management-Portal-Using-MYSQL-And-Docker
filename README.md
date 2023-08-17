@@ -6,6 +6,10 @@ This is an implementation of how to Containerize DB ( MYSQL ) in one container a
 
 <pre>docker compose up</pre>
 
+<h4>Output</h4>
+
+![Alt text](public/image-1.png)
+
 <h4>Docker Compose File</h4>
 
 <pre>
