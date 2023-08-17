@@ -10,6 +10,10 @@ This is an implementation of how to Containerize DB ( MYSQL ) in one container a
 
 ![Alt text](public/image-1.png)
 
+<h4>Multicontainer Diagram</h4>
+
+![Alt text](public/Multicontainer.png)
+
 <h4>Docker Compose File</h4>
 
 <pre>
