@@ -1,6 +1,6 @@
 # Multicontainer-Student-Management-Portal-Using-MYSQL-and-Docker
 
-This is an implementation of how to Containerize DB ( MYSQL ) in one container and Node JS in another container.
+This is an implementation of multi container in docker and to containerize DB ( MYSQL ) in one container and Node JS in another container.
 
 <h4>How to run?</h4>
 
