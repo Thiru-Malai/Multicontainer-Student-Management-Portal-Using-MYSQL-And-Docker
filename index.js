@@ -16,7 +16,7 @@ app.listen(3000, ()=>{
 
 const conn = mysql.createConnection({
     user: "thiru",
-    host: "172.18.0.2",
+    host: "mysql-db",
     password: "1234",   
     database: "TCE",
 })
